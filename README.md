@@ -24,4 +24,6 @@ O sistema informa se o palpite é maior ou menor que o número sorteado e contab
 4. Continue até acertar — o jogo mostrará quantas tentativas você precisou!
 5. Clique em “Novo jogo” para reiniciar.
 
+---
+
 🌐 **Acesse o jogo online:** [Clique aqui para abrir o jogo](https://jogo-de-numero-secreto-10-2025.vercel.app/)
