@@ -1,4 +1,4 @@
-# 🕹️ Jogo de número secreto
+# 🎯 Jogo de número secreto
 
 Um jogo interativo desenvolvido com HTML5, CSS3 e JavaScript, onde o jogador deve adivinhar um número secreto entre 1 e 1000.
 O sistema informa se o palpite é maior ou menor que o número sorteado e contabiliza o número de tentativas até o acerto.
@@ -18,11 +18,10 @@ O sistema informa se o palpite é maior ou menor que o número sorteado e contab
 
 ## 🚀 Como jogar
 
-1. Digite um número entre 1 e 1000.
-2. Clique em “Chutar” ou pressione Enter.
-3. O jogo dirá se o número secreto é maior ou menor.
-4. Continue até acertar — o jogo mostrará quantas tentativas você precisou!
-5. Clique em “Novo jogo” para reiniciar.
+1. O sistema escolhe automaticamente um **número secreto**.  
+2. O jogador tenta adivinhar digitando um número no campo indicado.  
+3. O jogo informa se o número digitado é **maior, menor ou igual** ao número secreto.  
+4. Ao acertar, uma mensagem de sucesso é exibida e o jogador pode reiniciar a partida.
 
 ---
 
