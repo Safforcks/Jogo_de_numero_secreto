@@ -23,3 +23,5 @@ O sistema informa se o palpite é maior ou menor que o número sorteado e contab
 3. O jogo dirá se o número secreto é maior ou menor.
 4. Continue até acertar — o jogo mostrará quantas tentativas você precisou!
 5. Clique em “Novo jogo” para reiniciar.
+
+🌐 **Acesse o projeto online:** [Clique aqui para abrir o projeto](https://interatividade-em-paginas-web-exerc-three.vercel.app/)
