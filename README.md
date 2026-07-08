@@ -1,4 +1,4 @@
-# 🎯 Jogo de número secreto
+# 🎯 Jogo de número secreto - 10/2025
 
 Um jogo interativo desenvolvido com HTML5, CSS3 e JavaScript, onde o jogador deve adivinhar um número secreto entre 1 e 1000.
 O sistema informa se o palpite é maior ou menor que o número sorteado e contabiliza o número de tentativas até o acerto.
